@@ -1,0 +1,183 @@
+------------Round 1 starts------------
+Map Islands
+WormsCount 6
+Worm Jack 2 100 10 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bob 3 100 67 2
+Weapon  Pistol  ranged  25  7  5
+Worm Joe 2 100 80 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bill 3 100 37 2
+Weapon  Pistol  ranged  25  7  5
+Worm John 2 100 95 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bee 3 100 55 2
+Weapon  Pistol  ranged  25  7  5
+----------------------------------------
+~~~Worm Jack turn~~~
+Worm Jack chose walk option
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack moves 1 tile left
+Worm Jack fell in water and died
+~~~Worm Bob turn~~~
+Worm Bob chose jump option
+Worm Bob jumped 4 tiles left
+Worm Bob chose attack option
+Worm Bob decided to not attack anyone
+Worm Bob aquired Sniper Rifle
+~~~Worm Joe turn~~~
+Worm Joe chose walk option
+Worm Joe moves 1 tile left
+Worm Joe stopped walking
+Worm Joe chose jump option
+Worm Joe jumped 4 tiles left
+Worm Joe chose attack option
+Worm Joe decided to not attack anyone
+Worm Joe aquired Holy Hand Grenade
+~~~Worm Bill turn~~~
+Worm Bill chose walk option
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill moves 1 tile left
+Worm Bill fell in water and died
+~~~Worm John turn~~~
+Worm John chose walk option
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John stopped walking
+Worm John chose jump option
+Worm John jumped 4 tiles left
+Worm John chose attack option
+Worm John decided to not attack anyone
+Worm John aquired F-1 Grenade
+~~~Worm Bee turn~~~
+Worm Bee chose jump option
+Worm Bee jumped 4 tiles right
+Worm Bee chose attack option
+Worm Bee decided to not attack anyone
+Worm Bee already has Pistol, so it is uses has been refilled
+------------Round 2 starts------------
+Map Islands
+WormsCount 4
+Worm Bob 3 100 63 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  Sniper Rifle  ranged  60  15  2
+Worm Joe 2 100 75 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  Holy Hand Grenade  throwable  80  6  1
+Worm John 2 100 86 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  F-1 Grenade  throwable  40  10  2
+Worm Bee 3 100 59 2
+Weapon  Pistol  ranged  25  7  5
+----------------------------------------
+~~~Worm Bob turn~~~
+Worm Bob chose walk option
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob moves 1 tile right
+Worm Bob stopped walking
+Worm Bob chose attack option
+Worm Bob equiped Sniper Rifle
+Worm Bob attacked worm Joe for 60 hitpoints
+Worm Bob already has Sniper Rifle, so it is uses has been refilled
+~~~Worm Joe turn~~~
+Worm Joe chose attack option
+Worm Joe equiped Holy Hand Grenade
+Worm Joe attacked worm Bob for 80 hitpoints
+Worm Joe aquired Katana
+~~~Worm John turn~~~
+Worm John chose jump option
+Worm John jumped 4 tiles left
+Worm John chose attack option
+Worm John equiped F-1 Grenade
+Worm John is too far from Bob to attack with F-1 Grenade
+Worm John already has F-1 Grenade, so it is uses has been refilled
+~~~Worm Bee turn~~~
+Worm Bee chose jump option
+Worm Bee jumped 4 tiles right
+Worm Bee chose walk option
+Worm Bee moves 1 tile right
+Worm Bee moves 1 tile right
+Worm Bee moves 1 tile right
+Worm Bee moves 1 tile right
+Worm Bee moves 1 tile right
+Worm Bee stopped walking
+Worm Bee chose attack option
+Worm Bee decided to not attack anyone
+Worm Bee aquired Baseball Bat
+------------Round 3 starts------------
+Map Islands
+WormsCount 4
+Worm Bob 3 20 71 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  Sniper Rifle  ranged  60  15  2
+Worm Joe 2 40 75 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  Holy Hand Grenade  throwable  80  6  1
+Weapon  Katana  melle  75  1  5
+Worm John 2 100 82 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  F-1 Grenade  throwable  40  10  2
+Worm Bee 3 100 68 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  Baseball Bat  melle  50  1  20
+----------------------------------------
+~~~Worm Bob turn~~~
+Worm Bob chose attack option
+Worm Bob equiped Sniper Rifle
+Worm Bob attacked worm Joe for 60 hitpoints
+Worm Joe got killed by worm Bob
+Worm Bob already has Sniper Rifle, so it is uses has been refilled
+~~~Worm Joe turn~~~
+Worm Joe chose walk option
+Worm Joe moves 1 tile right
+Worm Joe fell in water and died
+~~~Worm John turn~~~
+Worm John chose walk option
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John moves 1 tile left
+Worm John stopped walking
+Worm John chose attack option
+Worm John equiped F-1 Grenade
+Worm John attacked worm Bob for 40 hitpoints
+Worm Bob got killed by worm John
+Worm John aquired Baseball Bat
+~~~Worm Bee turn~~~
+Worm Bee chose jump option
+Worm Bee jumped 4 tiles right
+Worm Bee chose attack option
+Worm Bee equiped Pistol
+Worm Bee attacked worm John for 25 hitpoints
+Worm Bee aquired Holy Hand Grenade
+------------Round 4 starts------------
+Map Islands
+WormsCount 2
+Worm John 2 75 79 2
+Weapon  Pistol  ranged  25  7  5
+Weapon  F-1 Grenade  throwable  40  10  1
+Weapon  Baseball Bat  melle  50  1  20
+Worm Bee 3 100 72 2
+Weapon  Pistol  ranged  25  7  4
+Weapon  Baseball Bat  melle  50  1  20
+Weapon  Holy Hand Grenade  throwable  80  6  1
+----------------------------------------

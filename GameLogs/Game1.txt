@@ -1,0 +1,16 @@
+------------Round 1 starts------------
+Map Islands
+WormsCount 6
+Worm Jack 2 100 10 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bob 3 100 67 2
+Weapon  Pistol  ranged  25  7  5
+Worm Joe 2 100 80 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bill 3 100 37 2
+Weapon  Pistol  ranged  25  7  5
+Worm John 2 100 95 2
+Weapon  Pistol  ranged  25  7  5
+Worm Bee 3 100 55 2
+Weapon  Pistol  ranged  25  7  5
+----------------------------------------
