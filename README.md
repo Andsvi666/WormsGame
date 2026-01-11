@@ -20,7 +20,7 @@ Game also has system of being able to save it and play it from saved state. Afte
 
 ### Executing program
 
-* Within main folder click "WormsGame.exe" to run the project
+* Within main folder click "run.bat" to run the project
 
 Or
 
