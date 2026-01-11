@@ -1,35 +1,34 @@
-# Project Title
+# Worms Game in Console
 
-Simple overview of use/purpose.
+Classic worms type of game made using C# and fully working within console terminal.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Worms is a classic turn-based strategy game played between two or more teams, where the goal is to defeat all opposing teams by eliminating their worms using a variety of weapons and environmental mechanics. The game is played in rounds, and during each round one worm from every team gets a turn; in the following round, different worms from each team take their turns, and this cycle continues until the game ends. At the start of a worm’s turn, it receives a randomly selected weapon, and if the worm already owns that weapon, additional ammunition is added instead. During its turn, a worm can perform several actions, including walking and jumping using a limited number of movement points that are consumed while moving, selecting an enemy worm to attack, and choosing a weapon to use. Each weapon has its own properties such as damage, range, and area-of-effect radius. Some maps include water, represented by the absence of tiles at the bottom of the map, and if a worm moves into water, it dies immediately.
 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* .NET Runtime (or .NET SDK if running from source)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Donwload project from github
+* Unzip the folder in desired location
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Within main folder click "WormsGame.exe" to run the project
+
+Or
+
+* Run the terminal
+* Select project folder
+* Write the following command
 ```
-code blocks for commands
+dotnet run
 ```
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Since the game is played entirely within the terminal, all gameplay is controlled through keyboard input and typed commands. These commands must be entered exactly as described by the game; for example, if the command instructs the player to type "Walk", it must be written precisely as "Walk" and not as "WALK" or "walk". Command input is case-sensitive, and correct capitalization is required for the game to recognize and execute commands properly.
