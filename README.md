@@ -6,6 +6,8 @@ Classic worms type of game made using C# and fully working within console termin
 
 Worms is a classic turn-based strategy game played between two or more teams, where the goal is to defeat all opposing teams by eliminating their worms using a variety of weapons and environmental mechanics. The game is played in rounds, and during each round one worm from every team gets a turn; in the following round, different worms from each team take their turns, and this cycle continues until the game ends. At the start of a worm’s turn, it receives a randomly selected weapon, and if the worm already owns that weapon, additional ammunition is added instead. During its turn, a worm can perform several actions, including walking and jumping using a limited number of movement points that are consumed while moving, selecting an enemy worm to attack, and choosing a weapon to use. Each weapon has its own properties such as damage, range, and area-of-effect radius. Some maps include water, represented by the absence of tiles at the bottom of the map, and if a worm moves into water, it dies immediately.
 
+Game also has system of being able to save it and play it from saved state. After each round user is asked if he wants to create a saved game state log and it is created then when starting the game it can be chosed from one of the logs and continued instead of being played as a new game. 
+
 
 ### Dependencies
 
